@@ -1,0 +1,30 @@
+𝐀𝐧á𝐥𝐢𝐬𝐞 𝐝𝐞 𝐕𝐞𝐧𝐝𝐚𝐬 𝐈 𝐑𝐞𝐠𝐢ã𝐨 𝐒𝐮𝐥 - 𝐀𝐫𝐜𝐞𝐥𝐥𝐨𝐫𝐌𝐢𝐭𝐭𝐚𝐥
+
+Com o objetivo de identificar forças e fraquezas fundamentadas por dados, desenvolvi a seguinte análise com registros fictícios sobre os resultados de uma multinacional de fabricação de aço, com operações no Brasil.
+
+O relatório tem o resultado como foco, e aqui ele pôde ser testado e comparado através das mais variadas formas. A seguir a descrição dos indicadores apresentados, ordenados de cima para baixo para cada página:
+
+Faturamento 1
+
+- Valor absoluto de receita em 2021, acumulado até o último dia de registro. Em comparação justa no Card, receita de 2020 até a mesma data do último registro de 2021;
+- Valor absoluto de receita em 2021 do 4º trimestre, acumulado até o último dia de registro. Em comparação, receita do 3º trimestre de 2021;
+- Mini gráfico do resultado de 2021 por dia da semana;
+- Receita por ano e mês (drilldown de meses do ano). Histórico de receita, com projeção de 2022 tendo como base a taxa de crescimento dos últimos dois anos;
+- Receita por segmento em comparação com a do ano anterior;
+- Receita em comparação com a meta de cada segmento para o ano de 2021, rótulo de dados somente da meta;
+- Matriz de categoria e departamento de produtos com receita gerada e representatividade;
+- Receita por categoria ao longo do ano, com o destaque dinâmico dos melhores resultados;
+
+Faturamento 2
+
+- Quantidade de pedidos únicos em comparação com o do ano anterior;
+- Quantidade de vendas de produtos em comparação com a do ano anterior;
+- Ticket médio absoluto em comparação com o do ano anterior;
+- Matriz de departamento e produtos, com informações dos 3 indicadores anteriores, e pedidos com valores acima de 15 mil reais;
+- Gráfico de curva ABC para a análise dos departamentos que mais geram resultado;
+- Gráficos de desempenho por estado da região sul (destaques por cidade, de 2020 para 2021);
+- Gráficos de desempenho por estado da região sul (destaques por segmento, de 2020 para 2021);
+
+Para melhorar a experiência, que no caso seria para um usuário do mesmo nicho ou relacionado, foram introduzidos os materiais do catálogo do último ano da empresa, já classificados e dimensionados.
+
+https://app.powerbi.com/view?r=eyJrIjoiNThmMjI3ZGEtZjM2Ny00ZDdiLWE0OTEtYmUwOWVjZDliODA0IiwidCI6IjE0M2YyOTQwLTU5ODYtNGNiNi05YmEyLTY2MzM1NWQxOGVhNCJ9
